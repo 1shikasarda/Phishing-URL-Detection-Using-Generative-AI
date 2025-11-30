@@ -59,6 +59,3 @@
 * Online learning for evolving phishing patterns
 * Security dashboard for analytics
 
-
-
-Just tell me!
